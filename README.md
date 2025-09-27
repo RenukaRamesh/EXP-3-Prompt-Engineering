@@ -37,6 +37,7 @@ The findings were compiled into a professional report, complete with comparative
 ## Prompt
 
 ## Output
+[prompt3.pdf](https://github.com/user-attachments/files/22570754/prompt3.pdf)
 
 
 ## Result
